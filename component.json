@@ -12,6 +12,7 @@
     "scripts": [
       	"dist/crossroads.js"
     ],
+    "main": "dist/crossroads.js",    
     "dependencies":{
         "gamestop/js-signals":"*"
     }
